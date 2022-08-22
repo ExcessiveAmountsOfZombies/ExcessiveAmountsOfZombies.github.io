@@ -14,6 +14,10 @@ Croptopia is a minecraft mod for the Forge and Fabric modloaders that adds
 
 Croptopia can currently be downloaded on Curseforge, [here](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 
+### Source Code
+
+The source code for Croptopia can be found [here](https://github.com/ExcessiveAmountsOfZombies/Croptopia)
+
 ### Features (Quick Access)
 
 | <center>Crops</center>                                 | <center>Configuration</center>                          | <center>Ingredients</center>                         |

@@ -1,6 +1,6 @@
 site_name: Epherical Mods
 site_url: https://epherical.com/wiki
-repo_url: https://github.com/ExcessiveAmountsOfZombies
+repo_url: https://github.com/ExcessiveAmountsOfZombies/ExcessiveAmountsOfZombies.github.io
 site_description: "The Official Wiki for Croptopia"
 site_author: "Thonk"
 nav:
@@ -30,6 +30,8 @@ extra:
     provider: google
     property: G-5Z2W7QSS7B
   social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/GZjtAn3F6W
     - icon: fontawesome/brands/patreon
       link: https://patreon.com/thethonk
     - icon: fontawesome/brands/github
