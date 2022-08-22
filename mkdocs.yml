@@ -1,0 +1,38 @@
+site_name: Epherical Mods
+site_url: https://epherical.com/wiki
+repo_url: https://github.com/ExcessiveAmountsOfZombies
+site_description: "The Official Wiki for Croptopia"
+site_author: "Thonk"
+nav:
+  - Home: 'index.md'
+  - Croptopia:
+      - Offical Croptopia Wiki: 'croptopia/index.md'
+      - Config:
+          - Crop Categories (1.16, 1.17): 'croptopia/config/crop_categories.md'
+          - Crop Tags (1.18.2+): 'croptopia/config/crop_tags.md'
+      - Content:
+          - Foods: 'croptopia/content/foods.md'
+          - Utensils: 'croptopia/content/utensils.md'
+          - Ingredients: 'croptopia/content/ingredients.md'
+          - Raw List: 'croptopia/content/list.md'
+      - World Generation:
+          - Crops: 'croptopia/crops/crops.md'
+          - Trees: 'croptopia/crops/trees.md'
+theme:
+  features:
+    - header.autohide
+  name: material
+  logo: assets/angry_frog.png
+  favicon: assets/angry_frog.png
+  custom_dir: custom_theme/
+extra:
+  analytics:
+    provider: google
+    property: G-5Z2W7QSS7B
+  social:
+    - icon: fontawesome/brands/patreon
+      link: https://patreon.com/thethonk
+    - icon: fontawesome/brands/github
+      link: https://github.com/ExcessiveAmountsOfZombies
+
+copyright: All Rights Reserved
